@@ -1,0 +1,17 @@
+[GIN] 2019/10/15 - 11:17:18 | 200 |    1.663178ms |     10.43.73.91 | GET      /auth?username=test&password=test123456
+[GIN] 2019/10/15 - 11:17:37 | 200 |     693.597µs |     10.43.73.91 | GET      /auth?username=test&password=test123456
+[GIN] 2019/10/15 - 11:17:39 | 200 |     777.363µs |     10.43.73.91 | GET      /auth?username=test&password=test123456
+[GIN] 2019/10/15 - 11:17:40 | 200 |     703.747µs |     10.43.73.91 | GET      /auth?username=test&password=test123456
+[GIN] 2019/10/15 - 11:17:41 | 200 |      714.16µs |     10.43.73.91 | GET      /auth?username=test&password=test123456
+[GIN] 2019/10/15 - 11:19:49 | 200 |    1.071005ms |     10.43.73.91 | GET      /auth?username=test&password=test123456
+[GIN] 2019/10/15 - 11:20:31 | 200 |     323.348µs |     10.43.73.91 | GET      /swagger/index.html
+[GIN] 2019/10/15 - 11:20:31 | 200 |     209.441µs |     10.43.73.91 | GET      /swagger/swagger-ui.css
+[GIN] 2019/10/15 - 11:20:31 | 200 |    8.810079ms |     10.43.73.91 | GET      /swagger/swagger-ui-standalone-preset.js
+[GIN] 2019/10/15 - 11:20:31 | 200 |   30.626594ms |     10.43.73.91 | GET      /swagger/swagger-ui-bundle.js
+[GIN] 2019/10/15 - 11:20:31 | 200 |      77.758µs |     10.43.73.91 | GET      /swagger/doc.json
+[GIN] 2019/10/15 - 11:20:39 | 200 |      50.225µs |     10.43.73.91 | GET      /swagger/index.html
+[GIN] 2019/10/15 - 11:20:39 | 200 |       65.24µs |     10.43.73.91 | GET      /swagger/doc.json
+[GIN] 2019/10/15 - 11:20:39 | 200 |      44.828µs |     10.43.73.91 | GET      /swagger/favicon-32x32.png
+[GIN] 2019/10/15 - 11:20:41 | 200 |      51.497µs |     10.43.73.91 | GET      /swagger/index.html
+[GIN] 2019/10/15 - 11:20:41 | 200 |      56.648µs |     10.43.73.91 | GET      /swagger/doc.json
+[GIN] 2019/10/15 - 11:20:41 | 200 |      62.828µs |     10.43.73.91 | GET      /swagger/favicon-32x32.png
