@@ -23,7 +23,7 @@ require (
 	github.com/ugorji/go v1.1.7 // indirect
 	github.com/unknwon/com v1.0.1
 	golang.org/x/net v0.0.0-20191011234655-491137f69257 // indirect
-	golang.org/x/sys v0.0.0-20191010194322-b09406accb47 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/tools v0.0.0-20191011211836-4c025a95b26e // indirect
 	google.golang.org/appengine v1.6.5 // indirect
 	gopkg.in/yaml.v2 v2.2.4 // indirect
